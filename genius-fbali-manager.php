@@ -3,9 +3,9 @@
  * Plugin Name:       Genius Fbali Manager
  * Plugin URI:        https://github.com/VOTRE-USERNAME/fbali-webhook-manager
  * Description:       Gère les champs personnalisés de taille Fbali sur les variations WooCommerce et modifie les payloads webhook.
- * Version:           1.0.0
- * Author:            Votre Nom
- * Author URI:        https://votresite.com
+ * Version:           1.0.1
+ * Author:            Ingenius
+ * Author URI:        https://ingenius.agency
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       fbali-webhook-manager
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Constantes du plugin
-define( 'FWM_VERSION',     '1.0.0' );
+define( 'FWM_VERSION',     '1.0.1' );
 define( 'FWM_PLUGIN_FILE', __FILE__ );
 define( 'FWM_PLUGIN_DIR',  plugin_dir_path( __FILE__ ) );
 define( 'FWM_PLUGIN_URL',  plugin_dir_url( __FILE__ ) );
